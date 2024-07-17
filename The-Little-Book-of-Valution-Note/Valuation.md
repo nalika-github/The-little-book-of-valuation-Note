@@ -54,4 +54,36 @@ $C_e$ : Expected cash flow next year
 
 ### Resist the risk.
 
-To understant the Resisting of the risk method we have to understand the parameter that relate to the risk in term of mathtimatic first.
+To understand the method of risk resistance, we need to first grasp the parameters that are related to risk in mathematical terms.
+
+#### 1. Risk's parameters in mathematical terms.
+
+##### A. $\beta$ (beta)
+
+$\beta$ (beta) refers to the measure of a stock's volatility in relation to the overall market. It quantifies the stock's sensitivity to market movements. A beta greater than 1 indicates the stock is more volatile than the market, while a beta less than 1 suggests it is less volatile. Beta is an important parameter used in the Capital Asset Pricing Model (CAPM) to calculate the expected return of an asset.
+
+##### B. Risk fee rate.
+
+The term "Risk-free rate" refers to the theoretical rate of return on an investment that carries no risk. In financial models, it often serves as the benchmark for determining the minimum return an investor should expect for taking on additional risk. Typically, the risk-free rate is derived from the yield of a high-quality government bond, such as U.S. Treasury securities, which are considered to have negligible risk of default.
+
+##### C. Risk premium for average risk investment.
+
+The risk premium for an average-risk investment refers to the additional return above the risk-free rate that investors require for taking on the average level of risk associated with the investment. This premium compensates investors for the uncertainty and potential variability in returns compared to a risk-free investment.
+
+#### 2. The expected return of investment rate form CAPM.
+
+$r_p=\beta×(r_m-r_f)$ (CAPM Model)
+
+$r_e=r_f+(\beta×r_p)$ (CAPM Model)
+
+where:
+
+$r_p$ : Risk premium for average risk investment.
+
+$r_m$ : Market Return the expected return of the market portfolio
+
+$r_f$ : Risk-free Rate the return on a risk-free investment, such as a government bond
+
+$r_e$ : The expected return of investment rate
+
+$\beta$ :  the measure of a stock's volatility in relation to the overall market.
